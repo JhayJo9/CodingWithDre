@@ -12,8 +12,8 @@ public class day3 {
          
     	//String[] responses = {"s", "g"};
     	//ImageIcon icon = new ImageIcon("smile.png");
-    	//JOptionPane.showConfirmDialog(null, "q", "w", JOptionPane.YES_NO_CANCEL_OPTION );
-    	//JOptionPane.showMessageDialog(null,"g", "r", JOptionPane.INFORMATION_MESSAGE,icon);
+    	//JOptionPane.showConfirmDialog(null, "Yes", "No", JOptionPane.YES_NO_CANCEL_OPTION );
+    	//JOptionPane.showMessageDialog(null,"!!!", "???", JOptionPane.INFORMATION_MESSAGE,icon);
     	ImageIcon smileicon = new ImageIcon("smile1.png");
     	
     	Image smileimage =  smileicon.getImage();
